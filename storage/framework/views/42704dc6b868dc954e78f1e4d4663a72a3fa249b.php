@@ -1,0 +1,1 @@
+<?php echo e($provider->name_rus); ?><?php /**PATH C:\OpenServer\domains\localhost\resources\views/forms.blade.php ENDPATH**/ ?>
